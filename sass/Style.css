@@ -6,10 +6,8 @@
 .menu {
   margin: 0%;
   background: #17b3c1;
-  width: 130;
   text-align: center;
   font-size: medium;
-  position: -webkit-sticky;
   position: sticky;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -76,6 +74,17 @@
   font-weight: normal;
   color: #17557e;
 }
+
+.conteinerimg {
+  background: #6fc0f7;}
+  .imagenesmedio{ 
+    margin: 30;
+
+  }
+
+
+} 
+
 
 .texto {
   color: #2b4353;
